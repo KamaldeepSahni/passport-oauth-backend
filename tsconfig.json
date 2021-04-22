@@ -12,9 +12,10 @@
     "jsx": "react",
     "moduleResolution": "node",
     "rootDir": "src",
+    "skipLibCheck": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "strictNullChecks": true
   }
 }
